@@ -1,0 +1,13 @@
+{
+  "name": "martinaglv/touchtouch",
+  "description": "Lightbox module based on the responsive jQuery-plugin by Martin Angelov.",
+  "keywords": ["lightbox", "jquery", "popup", "pictures"],
+  "license": "GPL-2.0+",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Martin Angelov",
+      "homepage": "https://github.com/martinaglv"
+    }
+  ]
+}
